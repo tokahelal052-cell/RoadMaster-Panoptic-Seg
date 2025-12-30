@@ -50,6 +50,7 @@ Input Resolution: 512x256 pixels.
 Key Technologies: PyTorch, OpenCV, Flask/FastAPI, Scikit-learn, Matplotlib.
 
 📈 Visual Results
+![Training Accuracy and Loss](results.jpg)
 🛠️ How to Run
 Clone: git clone https://github.com/tokahelal052-cell/RoadMaster-Panoptic-Seg.git
 
